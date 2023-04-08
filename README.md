@@ -1,6 +1,6 @@
 # mi_card_flutter_ad
 
-A new Flutter project.
+This is the simple mi_card where can you see the important information about me 
 
 ## Getting Started
 
